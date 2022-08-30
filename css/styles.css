@@ -5,3 +5,11 @@
   /* font-family: 'Open Sans', sans-serif; */
 }
 
+.home-text {
+  color: rgb(235, 6, 6);
+  font-size: 40px;
+}
+
+body {
+  background-color: rgb(76, 221, 214);
+}
