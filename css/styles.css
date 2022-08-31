@@ -1,15 +1,19 @@
 /* css for name header */
 .display-1 {
-    color: blue;
+    color: rgb(55, 0, 255);
     font-family: 'Lato', sans-serif;
   /* font-family: 'Open Sans', sans-serif; */
 }
 
 .home-text {
-  color: rgb(235, 6, 6);
+  color: rgba(255, 30, 0, 0.911);
   font-size: 40px;
 }
 
 body {
-  background-color: rgb(76, 221, 214);
+  background-color: rgb(101, 188, 199);
+}
+
+.navbar-background {
+  background-color: rgb(101, 188, 199);
 }
