@@ -17,3 +17,8 @@ body {
 .navbar-background {
   background-color: rgb(101, 188, 199);
 }
+
+.h2 {
+  text-align: left;
+ color: brown;
+}
