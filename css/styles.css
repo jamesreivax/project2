@@ -5,6 +5,7 @@
   /* font-family: 'Open Sans', sans-serif; */
 }
 
+/* text on home page */
 .home-text {
   color: rgba(255, 30, 0, 0.911);
   font-size: 40px;
@@ -42,4 +43,9 @@ h2 {
       color: rgb(196, 26, 26);
       padding-top: 30px;
       font-family: 'Poppins', sans-serif;
+    }
+
+    .form-label {
+      color: rgb(212, 125, 42);
+
     }
