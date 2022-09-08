@@ -1,7 +1,7 @@
 /* css for name header */
 .display-1 {
-    color: rgb(55, 0, 255);
-    font-family: 'Lato', sans-serif;
+  color: rgb(55, 0, 255);
+  font-family: "Lato", sans-serif;
   /* font-family: 'Open Sans', sans-serif; */
 }
 
@@ -15,37 +15,44 @@ body {
   background-color: rgb(101, 188, 199);
 }
 
-@media screen and (max-width: 600px) {
-  body {
-    background-color: yellow;
-  }
-}
-
 .navbar-background {
   background-color: rgb(101, 188, 199);
- }
-
-
-h1 {text-align: center;
-  font-family: 'Roboto', sans-serif;
-  color:rgb(73, 70, 230)}
-
-h2 {
-  text-align: left;
- color: brown;
 }
 
-.fs-4 { font-family: 'Lato', sans-serif;
-      /* font-family: 'Open Sans', sans-serif; */
-    } 
+/* 
+header for contact and about pages */
+h1 {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: rgb(73, 70, 230);
+}
 
-    .text {
-      color: rgb(196, 26, 26);
-      padding-top: 30px;
-      font-family: 'Poppins', sans-serif;
-    }
+/* h2 {
+  text-align: left;
+ color: brown;
+}  */
 
-    .form-label {
-      color: rgb(212, 125, 42);
+.fs-4 {
+  font-family: "Lato", sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+}
 
-    }
+/* contact form */
+.text {
+  color: rgb(196, 26, 26);
+  padding-top: 30px;
+  font-family: "Poppins", sans-serif;
+}
+
+.form-label {
+  color: rgb(160, 102, 49);
+  font-family: "Poppins", sans-serif;
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: rgb(150, 200, 200);
+  } .navbar-background {
+    background-color: rgb(150, 200, 200);
+  }
+}
