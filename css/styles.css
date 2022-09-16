@@ -37,13 +37,20 @@ h1 {
   /* font-family: 'Open Sans', sans-serif; */
 }
 
-/* contact form */
+
 .text {
   color: rgb(196, 26, 26);
   padding-top: 30px;
   font-family: "Poppins", sans-serif;
 }
 
+/* previous work */
+.text2 {
+  color: rgb(61, 59, 179);
+  font-family: "Poppins", sans-serif;
+}
+
+/* contact form */
 .form-label {
   color: rgb(93, 114, 34);
   font-family: "Poppins", sans-serif;
